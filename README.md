@@ -8,7 +8,7 @@ Tema : Program pembelajaran bahasa (Prancis dan Inggris)
    ![Minpro 2 drawio](https://github.com/user-attachments/assets/061dab10-7f80-4728-8935-fa4671930131)
 
 
-# Mode admin
+# Admin
 1. Login admin
    
    ![LOGIN ADMIN](https://github.com/user-attachments/assets/4da74fab-a144-40a4-8b71-6a6bfe7c9b84)
@@ -52,7 +52,7 @@ Tema : Program pembelajaran bahasa (Prancis dan Inggris)
    
    Admin keluar dari program 
 
-# Mode user
+# User
 1. Login user
 
    ![USER LOGIN](https://github.com/user-attachments/assets/59ec8717-e05a-4106-b874-4fbddde3aa3b)
