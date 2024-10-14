@@ -38,12 +38,12 @@ Tema : Program pembelajaran bahasa (Prancis dan Inggris)
     
    ![KELUAR ADMIN](https://github.com/user-attachments/assets/fe60896f-41bd-4226-b63e-fcfd3ac78ba7)
 
-
-3. Login user
+# Mode user
+1. Login user
 
    ![USER LOGIN](https://github.com/user-attachments/assets/59ec8717-e05a-4106-b874-4fbddde3aa3b)
 
-4. Menu user
+2. Menu user
 
    ![USER MENU](https://github.com/user-attachments/assets/1d93840b-2542-491c-819d-d861f135e1ea)
 
