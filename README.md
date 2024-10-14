@@ -5,7 +5,7 @@ Kelas : A
 Tema : Program pembelajaran bahasa (Prancis dan Inggris)
 
 # Flowchart
-   ![Flowchart Minpro 2](https://github.com/user-attachments/assets/b5b0d255-dbc6-47db-8ddf-ecb2500fe408)
+   ![Minpro 2 drawio](https://github.com/user-attachments/assets/d158d7e9-e4d1-4ecd-bcda-3839bcc873a0)
 
 
 # Mode admin
